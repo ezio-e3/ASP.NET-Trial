@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/edinamyaoahadzie/Documents/Delivery/Presentation/Delivery/Delivery.Presentation.csproj": {}
+  },
+  "projects": {
+    "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/Delivery.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/Delivery.Application.csproj",
+        "projectName": "Delivery.Application",
+        "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/Delivery.Application.csproj",
+        "packagesPath": "/Users/edinamyaoahadzie/.nuget/packages/",
+        "outputPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edinamyaoahadzie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj": {
+                "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj"
+              },
+              "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj": {
+                "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj",
+        "projectName": "Delivery.Domain",
+        "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj",
+        "packagesPath": "/Users/edinamyaoahadzie/.nuget/packages/",
+        "outputPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edinamyaoahadzie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj",
+        "projectName": "Delivery.Infrastructure",
+        "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj",
+        "packagesPath": "/Users/edinamyaoahadzie/.nuget/packages/",
+        "outputPath": "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edinamyaoahadzie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj": {
+                "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/edinamyaoahadzie/Documents/Delivery/Presentation/Delivery/Delivery.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/edinamyaoahadzie/Documents/Delivery/Presentation/Delivery/Delivery.Presentation.csproj",
+        "projectName": "Delivery.Presentation",
+        "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Presentation/Delivery/Delivery.Presentation.csproj",
+        "packagesPath": "/Users/edinamyaoahadzie/.nuget/packages/",
+        "outputPath": "/Users/edinamyaoahadzie/Documents/Delivery/Presentation/Delivery/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/edinamyaoahadzie/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.306/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/Delivery.Application.csproj": {
+                "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Application/Delivery.Application/Delivery.Application.csproj"
+              },
+              "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj": {
+                "projectPath": "/Users/edinamyaoahadzie/Documents/Delivery/Infrastructure/Delivery.Infrastructure/Delivery.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

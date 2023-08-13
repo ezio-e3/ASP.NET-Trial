@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2hz4DbD9aUDnDYPY4pq/EGy3WjCU/sLTOrrP9gHdQezRgvF6AEmkOGdIwmDhBR1pFgFJXzuFlYSaf7Sq9Wk9ZQ==",
+  "success": true,
+  "projectFilePath": "/Users/edinamyaoahadzie/Documents/Delivery/Core/Domain/Delivery.Domain/Delivery.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.9/microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.9/microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/edinamyaoahadzie/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

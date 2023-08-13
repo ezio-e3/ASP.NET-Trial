@@ -1,0 +1,17 @@
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Application.deps.json
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Application.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Application.pdb
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.csproj.AssemblyReference.cache
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.AssemblyInfoInputs.cache
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.AssemblyInfo.cs
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.csproj.CoreCompileInputs.cache
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.csproj.CopyComplete
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\refint\Delivery.Application.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\Delivery.Application.pdb
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\obj\Debug\net7.0\ref\Delivery.Application.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Infrastructure.dll
+C:\Users\cuppy\Source\repo\Delivery\Core\Application\Delivery.Application\bin\Debug\net7.0\Delivery.Infrastructure.pdb

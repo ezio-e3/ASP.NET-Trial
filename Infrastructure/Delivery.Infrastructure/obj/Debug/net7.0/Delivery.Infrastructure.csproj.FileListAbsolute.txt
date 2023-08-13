@@ -1,0 +1,15 @@
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\bin\Debug\net7.0\Delivery.Infrastructure.deps.json
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\bin\Debug\net7.0\Delivery.Infrastructure.dll
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\bin\Debug\net7.0\Delivery.Infrastructure.pdb
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\bin\Debug\net7.0\Delivery.Domain.dll
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\bin\Debug\net7.0\Delivery.Domain.pdb
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.AssemblyInfo.cs
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.csproj.CopyComplete
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.dll
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\refint\Delivery.Infrastructure.dll
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\Delivery.Infrastructure.pdb
+C:\Users\cuppy\Source\repo\Delivery\Infrastructure\Delivery.Infrastructure\obj\Debug\net7.0\ref\Delivery.Infrastructure.dll
